@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="230" height="230">
   </a>
 
   <h3 align="center">Python Practice 101</h3>
@@ -13,10 +13,6 @@
   <p align="center">
     My personal roadmap for Python Practice, this won't help anyone but me to practice
     <br />
-    <a href="https://github.com/mezcalfighter/Python-Practice101"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/mezcalfighter/Python-Practice101">View Demo</a>
     ·
     <a href="https://github.com/mezcalfighter/Python-Practice101/issues">Report Bug</a>
     ·
@@ -67,9 +63,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+  python3 -m pip install --upgrade pip
   ```
 
 ### Installation
