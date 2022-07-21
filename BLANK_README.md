@@ -20,8 +20,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Issues][issues-shield]][https://github.com/mezcalfighter/Python-Practice101/issues]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/emanuel-camarena/]
 
 
 
@@ -181,6 +181,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/mezcalfighter/Python-Practice101/issues
+[issues-url]: https://github.com/github_username/repo_name/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/emanuel-camarena/
+[linkedin-url]: https://linkedin.com/in/github_username
