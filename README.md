@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://www.python.org/downloads/">
     <img src="https://img.icons8.com/stickers/200/000000/python.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -41,6 +41,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#content">Content</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -86,6 +87,17 @@ This is an example of how to list things you need to use the software and how to
 
 Please only run the main.py files, THIS IS ONLY A PRACTICE ROADMAP
 
+<!-- CONTENT -->
+## Content
+<ul>
+  <li>Algorithms</li>
+  <ul>
+    <li>Array Sequences</li>
+    <li>Stack Queues and Deques</li>
+    <li>Linked Lists</li>
+  </ul>
+  <li>Object Oriented Programming</li>
+</ul>
 
 <!-- CONTACT -->
 ## Contact
