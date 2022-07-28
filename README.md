@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Logo" width="230" height="230">
+    <img src="https://img.icons8.com/stickers/200/000000/python.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Python Practice 101</h3>
