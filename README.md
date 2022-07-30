@@ -90,7 +90,7 @@ Please only run the main.py files, THIS IS ONLY A PRACTICE ROADMAP
 <!-- CONTENT -->
 ## Content
 <ul>
-  <li>Algorithms</li>
+  <li>Data Structure & Algorithms</li>
   <ul>
     <li>Array Sequences</li>
     <li>Stack Queues and Deques</li>
