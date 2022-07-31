@@ -11,6 +11,7 @@ def twoNumberSum(array, targetSum):
             #result.append([item,temp_value])
     return []
 
+#This is the main function
 if __name__ == '__main__':
     array = [3,5,-4,8,11,1,-1,6]
     targetSum = 10
